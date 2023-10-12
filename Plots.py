@@ -2,9 +2,6 @@
 # coding: utf-8
 
 # In[51]:
-
-
-get_ipython().run_line_magic('matplotlib', 'widget')
 from astropy.io import fits
 import numpy as np
 import matplotlib.pyplot as plt
